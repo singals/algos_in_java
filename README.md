@@ -6,7 +6,6 @@ The purpose of this repository is for me to practice some algo using java as pro
 - Basic List
 - Basic Set
 - Basic Map
-- Basic Tree
 - Basic Graph
 ##### Algo
 ###### Basic
@@ -28,3 +27,4 @@ The purpose of this repository is for me to practice some algo using java as pro
 #### Problems solved
 ###### DS
 - [Basic Stack](src/main/java/com/github/singals/ds/Stack.java)
+- [Basic Sorted Binary Tree](src/main/java/com/github/singals/ds/BinaryTree.java)
