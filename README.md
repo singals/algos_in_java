@@ -9,7 +9,6 @@ The purpose of this repository is for me to practice some algo using java as pro
 - Basic Graph
 ##### Algo
 ###### Basic
-- List - sort
 - List - search
 - Tree - search
 - Sliding Window - sum
@@ -25,6 +24,9 @@ The purpose of this repository is for me to practice some algo using java as pro
 ###### Recursion
 
 #### Problems solved
-###### DS
+##### DS
 - [Basic Stack](src/main/java/com/github/singals/ds/Stack.java)
 - [Basic Sorted Binary Tree](src/main/java/com/github/singals/ds/BinaryTree.java)
+##### Algo
+###### Basic
+- [Array - sort](src/main/java/com/github/singals/algo/SortArray.java)

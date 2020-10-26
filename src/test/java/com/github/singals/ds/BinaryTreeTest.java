@@ -83,6 +83,7 @@ class BinaryTreeTest {
     }
 
     @Test
+    @DisplayName("elements added in mixed order")
     void TestTreeWhenElementsAdded() {
         BinaryTree<Integer> tree = new BinaryTree<>();
         Arrays.asList(5,2,8,3,1,10,6).forEach(tree::add);
