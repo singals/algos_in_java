@@ -9,7 +9,6 @@ The purpose of this repository is for me to practice some algo using java as pro
 - Basic Graph
 ##### Algo
 ###### Basic
-- List - search
 - Tree - search
 - Sliding Window - sum
 ###### Tree problems
@@ -30,3 +29,4 @@ The purpose of this repository is for me to practice some algo using java as pro
 ##### Algo
 ###### Basic
 - [Array - sort](src/main/java/com/github/singals/algo/SortArray.java)
+- [Array - search](src/main/java/com/github/singals/algo/SearchArray.java)
