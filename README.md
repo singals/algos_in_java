@@ -10,7 +10,6 @@ The purpose of this repository is for me to practice some algo using java as pro
 ##### Algo
 ###### Basic
 - Tree - search
-- Sliding Window - sum
 ###### Tree problems
 - Level traversing
 - In/Pre/Post order traversal
@@ -30,3 +29,4 @@ The purpose of this repository is for me to practice some algo using java as pro
 ###### Basic
 - [Array - sort](src/main/java/com/github/singals/algo/SortArray.java)
 - [Array - search](src/main/java/com/github/singals/algo/SearchArray.java)
+- [Sliding Window - sum](src/main/java/com/github/singals/algo/SlidingWindow.java)
