@@ -15,7 +15,6 @@ The purpose of this repository is for me to practice some algo using java as pro
 - In/Pre/Post order traversal
 ###### Divide & Conquer
 ###### Dynamic programming
-- Given coin denominations and total amount, find out the number of ways to make the change
 ###### Backtracking
 - Print all braces combinations for a given value 'N' so that they are balanced.
 ###### Recursion
@@ -31,3 +30,4 @@ The purpose of this repository is for me to practice some algo using java as pro
 - [Sliding Window - sum](src/main/java/com/github/singals/algo/SlidingWindow.java)
 ###### Dynamic programming
 - [Maze - 2D array - Shortest path from A to B](src/main/java/com/github/singals/algo/Maze.java)
+- [Given coin denominations and total amount, find out the least number of coins & denomination](src/main/java/com/github/singals/algo/CoinProblem.java)
