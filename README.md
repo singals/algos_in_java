@@ -16,7 +16,6 @@ The purpose of this repository is for me to practice some algo using java as pro
 ###### Divide & Conquer
 ###### Dynamic programming
 ###### Backtracking
-- Print all braces combinations for a given value 'N' so that they are balanced.
 ###### Recursion
 
 #### Problems solved
@@ -31,3 +30,5 @@ The purpose of this repository is for me to practice some algo using java as pro
 ###### Dynamic programming
 - [Maze - 2D array - Shortest path from A to B](src/main/java/com/github/singals/algo/Maze.java)
 - [Given coin denominations and total amount, find out the least number of coins & denomination](src/main/java/com/github/singals/algo/CoinProblem.java)
+###### Backtracking
+- [Print all braces combinations for a given value 'N' so that they are balanced.](src/main/java/com/github/singals/algo/Braces.java)
