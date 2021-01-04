@@ -34,3 +34,4 @@ The purpose of this repository is for me to practice some algo using java as pro
 - [Print all braces combinations for a given value 'N' so that they are balanced.](src/main/java/com/github/singals/algo/Braces.java)
 ##### Problems
 - [K largest elements](src/main/java/com/github/singals/problems/KLargestElements.java)
+- [Reverse array in groups](src/main/java/com/github/singals/problems/ReverseArrayInGroups.java)
