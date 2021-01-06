@@ -35,3 +35,4 @@ The purpose of this repository is for me to practice some algo using java as pro
 ##### Problems
 - [K largest elements](src/main/java/com/github/singals/problems/KLargestElements.java)
 - [Reverse array in groups](src/main/java/com/github/singals/problems/ReverseArrayInGroups.java)
+- [Binary Tree to doubly linked list](src/main/java/com/github/singals/problems/BinaryTreeToDoublyLinkedList.java)
