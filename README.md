@@ -1,22 +1,8 @@
 ## Algos in Java
 The purpose of this repository is for me to practice some algo using java as programming language. 
 
-#### TODO problems
-##### DS
-- Basic List
-- Basic Set
-- Basic Map
-- Basic Graph
-##### Algo
-###### Basic
-- Tree - search
-###### Tree problems
-- Level traversing
-- In/Pre/Post order traversal
-###### Divide & Conquer
-###### Dynamic programming
-###### Backtracking
-###### Recursion
+#### WIP
+##### [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
 
 #### Problems solved
 ##### DS
@@ -36,3 +22,21 @@ The purpose of this repository is for me to practice some algo using java as pro
 - [K largest elements](src/main/java/com/github/singals/problems/KLargestElements.java)
 - [Reverse array in groups](src/main/java/com/github/singals/problems/ReverseArrayInGroups.java)
 - [Binary Tree to doubly linked list](src/main/java/com/github/singals/problems/BinaryTreeToDoublyLinkedList.java)
+
+#### TODO problems
+##### DS
+- Basic List
+- Basic Set
+- Basic Map
+- Basic Graph
+##### Algo
+###### Basic
+- Tree - search
+###### Tree problems
+- Level traversing
+- In/Pre/Post order traversal
+###### Divide & Conquer
+###### Dynamic programming
+###### Backtracking
+###### Recursion
+
