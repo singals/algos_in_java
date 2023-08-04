@@ -2,6 +2,10 @@ package com.github.singals.algo.leetcode.seventyFive;
 
 import java.util.*;
 
+/**
+ * Given an array of integers arr, return true if the number of occurrences
+ * of each value in the array is unique or false otherwise.
+ */
 public class UniqueOccurrences {
     public static boolean uniqueOccurrences(int[] arr) {
         if (arr.length == 1) return true;
