@@ -2,7 +2,6 @@ package com.github.singals.algo.leetcode.seventyFive;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.w3c.dom.NodeList;
 
 import static org.junit.jupiter.api.Assertions.*;
 
