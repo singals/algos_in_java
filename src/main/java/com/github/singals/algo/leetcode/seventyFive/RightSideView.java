@@ -1,9 +1,7 @@
 package com.github.singals.algo.leetcode.seventyFive;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class RightSideView {
     private List<Integer> res = new ArrayList<>();
