@@ -1,9 +1,5 @@
 package com.github.singals.algo.leetcode.seventyFive;
 
-import java.util.Arrays;
-import java.util.PriorityQueue;
-import java.util.Queue;
-
 // https://leetcode.com/problems/koko-eating-bananas/description/
 public class KokoEatingBananas {
 
