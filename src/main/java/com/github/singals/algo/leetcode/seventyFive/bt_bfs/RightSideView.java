@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.bt_bfs;
 
 import java.util.ArrayList;
 import java.util.List;
