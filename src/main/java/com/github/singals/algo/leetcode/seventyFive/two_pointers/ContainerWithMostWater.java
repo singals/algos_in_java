@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.two_pointers;
 
 /**
  * You are given an integer array height of length n. There are n vertical

@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.two_pointers;
 
 /**
  * Given an integer array nums, move all 0's to the end of it while

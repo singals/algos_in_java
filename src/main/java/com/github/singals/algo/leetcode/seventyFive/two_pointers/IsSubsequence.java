@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.two_pointers;
 
 public class IsSubsequence {
     public static boolean isSubsequence(String s, String t) {
