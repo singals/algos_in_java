@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.bst;
 
 /**
  * Given a root node reference of a BST and a key, delete the node with the given
