@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.graph_bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;

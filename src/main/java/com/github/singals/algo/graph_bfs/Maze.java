@@ -1,4 +1,4 @@
-package com.github.singals.algo;
+package com.github.singals.algo.graph_bfs;
 
 import lombok.Getter;
 

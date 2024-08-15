@@ -1,4 +1,4 @@
-package com.github.singals.algo;
+package com.github.singals.algo.graph_bfs;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
