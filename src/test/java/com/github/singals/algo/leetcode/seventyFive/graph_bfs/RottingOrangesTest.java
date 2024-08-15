@@ -1,10 +1,6 @@
 package com.github.singals.algo.leetcode.seventyFive.graph_bfs;
 
-import com.github.singals.algo.graph_bfs.Location;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -97,7 +93,8 @@ class RottingOrangesTest {
         assertEquals(1, minutes);
     }
 
-    static class MazeTest {
+    @Nested
+    class MazeTest {
 
         @Test
         @DisplayName("maze-shortest-distance-no-match")

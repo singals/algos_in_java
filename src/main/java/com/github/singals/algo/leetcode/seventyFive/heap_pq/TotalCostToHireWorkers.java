@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.heap_pq;
 
 // https://leetcode.com/problems/total-cost-to-hire-k-workers/description
 

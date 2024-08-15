@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.heap_pq;
 
 import java.util.*;
 import java.util.stream.IntStream;
