@@ -1,13 +1,12 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.graph_dfs;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class KeysAndRoomsTest {
 
@@ -25,7 +24,7 @@ class KeysAndRoomsTest {
 
         boolean canVisitAllRooms = keysAndRooms.canVisitAllRooms(rooms);
 
-        assertTrue(canVisitAllRooms);
+        Assertions.assertTrue(canVisitAllRooms);
     }
 
     @Test
@@ -35,6 +34,6 @@ class KeysAndRoomsTest {
 
         boolean canVisitAllRooms = keysAndRooms.canVisitAllRooms(rooms);
 
-        assertFalse(canVisitAllRooms);
+        Assertions.assertFalse(canVisitAllRooms);
     }
 }
