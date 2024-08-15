@@ -1,6 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
-
-import java.util.Stack;
+package com.github.singals.algo.leetcode.seventyFive.stack;
 
 /**
  * You are given a string s, which contains stars *.
