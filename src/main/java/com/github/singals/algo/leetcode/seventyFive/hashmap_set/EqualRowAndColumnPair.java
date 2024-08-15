@@ -1,7 +1,6 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.hashmap_set;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 /**

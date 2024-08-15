@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.hashmap_set;
 
 import java.util.ArrayList;
 import java.util.HashSet;
