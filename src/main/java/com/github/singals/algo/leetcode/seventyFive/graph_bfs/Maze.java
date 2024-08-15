@@ -1,4 +1,4 @@
-package com.github.singals.algo.graph_bfs;
+package com.github.singals.algo.leetcode.seventyFive.graph_bfs;
 
 import lombok.Getter;
 
