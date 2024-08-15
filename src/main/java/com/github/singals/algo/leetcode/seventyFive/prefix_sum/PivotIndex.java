@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.prefix_sum;
 
 /**
  * Given an array of integers nums, calculate the pivot index of this array.

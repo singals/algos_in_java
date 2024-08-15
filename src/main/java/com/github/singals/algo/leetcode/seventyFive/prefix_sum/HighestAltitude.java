@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.prefix_sum;
 
 /**
  * There is a biker going on a road trip. The road trip consists of n + 1 points
