@@ -1,9 +1,8 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.queue;
 
 import java.util.Deque;
 import java.util.Iterator;
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * In the world of Dota2, there are two parties: the Radiant and the Dire.
