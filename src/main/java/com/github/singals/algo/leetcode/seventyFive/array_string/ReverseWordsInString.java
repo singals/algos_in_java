@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.array_string;
 
 /**
  * Given an input string s, reverse the order of the words.

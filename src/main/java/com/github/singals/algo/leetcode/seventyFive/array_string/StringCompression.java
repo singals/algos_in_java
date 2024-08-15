@@ -1,6 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
-
-import java.util.Arrays;
+package com.github.singals.algo.leetcode.seventyFive.array_string;
 
 /**
  * Given an array of characters chars, compress it using the following algorithm:

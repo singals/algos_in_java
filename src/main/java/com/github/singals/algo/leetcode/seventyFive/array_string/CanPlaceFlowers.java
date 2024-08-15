@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.array_string;
 
 /**
  * You have a long flowerbed in which some of the plots are planted,

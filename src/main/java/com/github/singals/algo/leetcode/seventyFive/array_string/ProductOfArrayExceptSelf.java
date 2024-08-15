@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.array_string;
 
 /**
  * Given an integer array nums, return an array answer such that

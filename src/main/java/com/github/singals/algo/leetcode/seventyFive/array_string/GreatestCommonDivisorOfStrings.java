@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.array_string;
 
 /**
  * For two strings s and t, we say "t divides s" if and only if s = t + ... + t
