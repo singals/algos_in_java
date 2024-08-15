@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.linked_list;
 
 /**
  * Given the head of a singly linked list, reverse the list, and return the reversed list.

@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.linked_list;
 
 public class MaximumTwinSum {
     public static int pairSum(ListNode head) {

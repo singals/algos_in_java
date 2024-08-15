@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.linked_list;
 
 /**
  * You are given the head of a linked list. Delete the middle node, and return the

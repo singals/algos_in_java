@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.linked_list;
 
 /**
  * Given the head of a singly linked list, group all the nodes with odd indices

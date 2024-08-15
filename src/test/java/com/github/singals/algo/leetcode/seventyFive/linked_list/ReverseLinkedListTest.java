@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.linked_list;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
