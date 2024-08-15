@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.bt_dfs;
 
 /**
  * Given a binary tree root, a node X in the tree is named good if in the path from

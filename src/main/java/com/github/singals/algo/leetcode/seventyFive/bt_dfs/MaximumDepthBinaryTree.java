@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.bt_dfs;
 
 public class MaximumDepthBinaryTree {
     public static int maxDepth(TreeNode root) {

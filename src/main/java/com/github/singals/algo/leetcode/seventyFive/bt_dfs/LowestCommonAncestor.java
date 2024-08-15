@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.bt_dfs;
 
 /**
  * Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
