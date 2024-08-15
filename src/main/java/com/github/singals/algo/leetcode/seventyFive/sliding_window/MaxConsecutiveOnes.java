@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.sliding_window;
 
 /**
  * Given a binary array nums and an integer k,

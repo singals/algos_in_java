@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.sliding_window;
 
 /**
  * You are given an integer array nums consisting of n elements, and an integer k.

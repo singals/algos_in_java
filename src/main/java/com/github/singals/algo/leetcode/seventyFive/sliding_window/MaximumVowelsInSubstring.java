@@ -1,8 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
-
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+package com.github.singals.algo.leetcode.seventyFive.sliding_window;
 
 /**
  * Given a string s and an integer k, return the maximum number of vowel letters
