@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.dp_1d;
 
 //https://leetcode.com/problems/n-th-tribonacci-number/description/
 public class NthTribonacciNumber {
