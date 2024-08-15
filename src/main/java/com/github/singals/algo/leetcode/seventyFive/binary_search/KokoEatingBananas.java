@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.binary_search;
 
 // https://leetcode.com/problems/koko-eating-bananas/description/
 public class KokoEatingBananas {

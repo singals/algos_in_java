@@ -1,4 +1,4 @@
-package com.github.singals.algo.leetcode.seventyFive;
+package com.github.singals.algo.leetcode.seventyFive.binary_search;
 
 //https://leetcode.com/problems/guess-number-higher-or-lower/description/
 public class GuessNumberHigherOrLower {
