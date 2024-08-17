@@ -5,7 +5,6 @@ package com.github.singals.algo.leetcode.seventyFive.dp_1d;
 import java.util.Arrays;
 
 public class HouseRobber {
-//    2,1,1,2
     public int rob(int[] nums) {
         int prev1 = 0, prev2 = 0;
 
