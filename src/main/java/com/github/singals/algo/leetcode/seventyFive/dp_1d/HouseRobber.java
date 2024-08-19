@@ -1,9 +1,6 @@
 package com.github.singals.algo.leetcode.seventyFive.dp_1d;
 
 //https://leetcode.com/problems/house-robber/description/
-
-import java.util.Arrays;
-
 public class HouseRobber {
     public int rob(int[] nums) {
         int prev1 = 0, prev2 = 0;

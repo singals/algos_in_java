@@ -1,5 +1,6 @@
 package com.github.singals.algo.leetcode.seventyFive.dp_1d;
 
+//https://leetcode.com/problems/domino-and-tromino-tiling/
 public class DominoTrominoTiling {
     public int numTilings(int n) {
         long prev1 = 5;
