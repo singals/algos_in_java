@@ -38,15 +38,5 @@ public class Trie {
         return true;
     }
 
-    class TrieNode {
-        TrieNode[] children;
-
-        boolean isLast;
-
-        public TrieNode() {
-            children = new TrieNode[26];
-            isLast = false;
-        }
-    }
 }
 
