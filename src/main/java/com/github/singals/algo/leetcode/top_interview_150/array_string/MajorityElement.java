@@ -3,6 +3,7 @@ package com.github.singals.algo.leetcode.top_interview_150.array_string;
 import java.util.HashMap;
 import java.util.Map;
 
+// https://leetcode.com/problems/majority-element/description/
 public class MajorityElement {
     public int majorityElement(int[] nums) {
 //        Map<Integer, Integer> numCount = new HashMap<>();

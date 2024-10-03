@@ -2,6 +2,7 @@ package com.github.singals.algo.leetcode.top_interview_150.array_string;
 
 import java.util.Arrays;
 
+//https://leetcode.com/problems/rotate-array/description/
 public class RotateArray {
     public void rotate(int[] nums, int k) {
         int length = nums.length;
